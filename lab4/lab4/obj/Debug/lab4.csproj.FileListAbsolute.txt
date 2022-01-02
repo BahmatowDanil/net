@@ -1,0 +1,11 @@
+C:\Users\mrmel\source\repos\net\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\mrmel\source\repos\net\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\mrmel\source\repos\net\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\mrmel\source\repos\net\lab4\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+C:\Users\mrmel\source\repos\net\lab4\lab4\obj\Debug\lab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrmel\source\repos\net\lab4\lab4\obj\Debug\lab4.Form1.resources
+C:\Users\mrmel\source\repos\net\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\mrmel\source\repos\net\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\mrmel\source\repos\net\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\mrmel\source\repos\net\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\mrmel\source\repos\net\lab4\lab4\obj\Debug\lab4.pdb
